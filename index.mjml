@@ -1,0 +1,86 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-body background-color="#ffffff" />
+            <mj-text color="#292929" font-family="Eina03,Helvetica,Arial,sans-serif" />
+            <mj-table font-size="16px" />
+        </mj-attributes>
+        <mj-style> 
+            .hover-button a:hover  { 
+                background-color: #FFA559 !important;
+                } 
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image src="img/honey-logo.png" alt="" width="20px" align="left" href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFG7s81ipgSxc27N-bGn47a2WKkSvflAe6_E5pcF-m1Ud3Ups8OHy9yf4gfUaZd76LrfroCWfzUxtNTJVfPdEOjIkPMPaNoHkgS64LRXBoOCdxMjaAfJ0Nb1AIyBIkbbTgSk5DxMtHDI-YpodVbjpE1LCEAT4hMEUlRGPnrpftF7ZLfagYcGqrCCYYtJ9T5zSOQ%3D%3D" target="_blank"/>
+
+                <mj-text>
+                    <h1 style="font-size: 48px;">Congrats! Your <span style="color: #72520d;">175 PayPal Rewards points</span> are confirmed.</h1>
+                    <p style="line-height: 22px; font-size: 15px;">The store has confirmed that your order qualified for 175 points ($1.75 redemption value) . You can now redeem your points for cash, or for other available redemption options.</p>
+                    <p style="font-size: 10px;">Cash redemption requires PayPal account in good standing. <a href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFBRW2PtZVOmm08siqptC7DgMruqmA390o8RSiHmpNgbS_sN93qXEvAT2KwGQM2ImK3wxxdoWqSecUDj5GUKlBrNpNN94nd9vM5QHzjw6231DeCah-vpQ-bn5P57SMinCF0c-CEjxiafbAghjSvy3-GR6BX0lS2nLg0hN8kBJaoRJDak40zn3cwy6LjgQ3kdKnvIX2-V-R-i48Dpn-uVXSl0h32D7-Yd3HK0HoXAp3Eu8Tn4ksNrwAgHKg-BjLOAqsQ%3D%3D" style="color: #292929;">PayPal Rewards Terms</a> apply.</p>
+                </mj-text>
+
+                <mj-image src="img/tokens.png" alt="" href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFG7s81ipgSxc27N-bGn47a2KdLVUF3Xc491DSdpRZ2aU_d8IvKm3qgbnUaFg4i_HIFH5eNONrV0PAeTPXXLN8gVRO6tcr7yd6mdQIohrmGpDvNrGJf3LbmPmZ33mPkBipPfRKDrxUrQlMh6xlz1WkEjBUSDnBNbhURXlGgpmo8N1XPrLztV64fou2wZOqsOTBu1qkNSs2Qqr4zfuo4b0hZo%3D" padding-top="0"/>
+
+                <mj-table line-height="30px">   
+                    <thead style="padding-bottom: 20px;">
+                        <th style="text-align: left;">Date</th>
+                        <th style="text-align: left;">Transaction</th>
+                        <th style="text-align: right;">Rewards</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: left;">Dec 11 2022</td>
+                            <td style="text-align: left;">Foot Locker</td>
+                            <td style="text-align: right;">175 pts</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: left;"></td>
+                            <td style="text-align: left; color: #616161;">$175.00 | 1.00%</td>
+                            <td style="text-align: right; color: #616161;">($1.75 redemption value)</td>
+                        </tr>
+                    </tbody>
+                </mj-table>
+
+                <mj-divider border-width="1px" />
+
+                <mj-table>
+                    <tr style="font-size: 24px;">
+                        <td style="text-align: left;">Total Confirmed:</td>
+                        <td style="text-align: right;"><img src="img/token-icon.png" style="width: 20px; vertical-align: middle; padding-right: 6px;" />175 pts</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td style="text-align: right; font-size: 14px;">($1.75 USD)</td>
+                    </tr>
+                </mj-table>
+
+                <mj-spacer height="30px" />
+                <mj-button css-class="hover-button" background-color="#cc4b06" inner-padding="20px" font-size="16px" href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFG7s81ipgSxc27N-bGn47a2KdLVUF3Xc491DSdpRZ2aU_d8IvKm3qgbnUaFg4i_HIILJiYRiP9rzLrXrXE5Uji3rHi5OUw0XDo2HpfldVDq3UvpOgzuI702jT0SysVF-1mc_kY7ySe2FOtLwwZYkHdATHb6m2v4LLZCSL01qXM4X9PcqA10MqU74qFZkZrnadgeyk--jksY34bXHtm32sFg%3D" target="_blank">
+                    View Rewards
+                </mj-button>
+
+                <mj-text align="center">
+                    <p style="font-size: 18px;">Share to social media to get more points.</p>
+                </mj-text>
+                <mj-social padding-top="0">
+                    <mj-social-element src="img/facebook-icon.png" icon-size="50px" href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFG7s81ipgSxc27N-bGn47a3A1qzYRa_WvtIsPtOzG4NAK-fPJQXqEZ_uZvCHUS7iNIdJX3RFICjR7Z0-bHpAydcNgesF4-SLzEU9TkLrs8bRQk3dlf4O2gCvB4juW9vRodN0Q8K6E7ipD-t0GkaqRfzXmhv5YDsOpLp8iGEwB2RaA-9WHYlqzHxeuweYVlL7zo6hOK4kr4t6MjwQT2Hz_kxwDxf2csEYSmqO45tzFvsulxjUXmLFIirS2wWR3y7bOX90hp7YqFBtZBHCsG2zrwU0c3qYV4XBOF4hRvMYo7vTOppgAjIxastbDE8wiCebmw%3D%3D" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/messenger-icon.png" icon-size="50px" href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFIIcBGP3M-76nhUIBOE7KRu0bMoghbbseM0yuU6_K4r2b2o6f68-JWCb07bGcVZyI0dbUmCqeDpo2DcsRIY0OZnsizccWGW7hFDm5IZMELbIwSlN6wImw0ceVtDHg0CtsKpkDJ6QKWgn_yvyAVWBsQFnfol_Wiy54rCZ87faeAFifhWVrRALqgiQXimQPhvxqA0f3h_c2_3GzsGyh_gV8FOZED0r5uwrozjUwBBcb35m5BZPGsVULoZSuxsjDsHB55gwHr7tKscH3SELApZgNz8l8i7m-bKY6kU7GYBZqLTkqFAu92esErdrZ1XuSb47Lg%3D%3D" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/twitter-icon.png" icon-size="50px" href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFG7s81ipgSxc27N-bGn47a3whKaDVovu-oqBaFqO2t6wetnf80e5qyR5KcNUV4OtWTyh-LKuMid80fWsZs5CUvzNcCQ61feJxXkisMxL3CdhLq2vegqfSb2F0yVZsmVtRT_rdpatGwb-N0o9K3J6QUwa0VwbP0vj-juv-HTwBbi1f9e7Gjd-PtWSjPXjQk-jspF7XM_dldmMZEMDlAIHtoGWOykZyZ6dSjEQMuCd0MHjqJthTfBm1XVRubs1xMAfaaaBYuAzvjjFihF00yf5mJC3hnkPinnKMmOx4SimSjPsiHKXNtF9nJs0KXzUaWZPHu_RwTSLp_wJmxmqjsUUX2chJOZ25GW9ILBrEFdrGMJOTLw_OBDOUpKxQ8-FrhJ5PwnIZgNwN6EgZ7SK0WT2IuyDgktstoGNjW6BKv1baVgUEHn72qr1OM8NRh1p1mL02gMpROkH7PVVeRwYrxeaIH-VryMG-uRTK4QDczlCsft2" target="_blank"></mj-social-element>
+                </mj-social>
+                <mj-text font-size="12px" align="center">
+                    <p>Need a refresher on our referral program? <a href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFG7s81ipgSxc27N-bGn47a2KdLVUF3Xc491DSdpRZ2aU_d8IvKm3qgbnUaFg4i_HIGCOqxFYPzNWCWRTr_XrmFjwcTsEU2b-RFYplAoiKP0iVXn33shKLr5bWIuxRN4PbCQK_RxWOnpLd9LXHRWKoFbvD233GUIgkISdlZCPZe6wOeNFjnT7hYJxgRo10051XfpHMTxxqTQ3YqLkZEL3Mgk%3D" target="_blank" style="color: #000000;">Learn more here.</a></p>
+                    <div style="color: #757575;">
+                        <p style="line-height: 15px;">You are receiving this message based on your Honey account settings.<br><a style="color: #757575;" href="https://links.joinhoney.com/e/encryptedUnsubscribe?_r=70657193eb7a404887947be80fb10777&_s=69d3cbda2f3341048bcb5de429f5b475&_t=05wmyU9-T4EVDEay9O6wdFICP9RVTdhIgzP2zH5gCLdqIJqlfnhbXuwVi0AGocu_dzIi2OHSOR-yXQsrf9n3tIvy_r3nrVaQiYJazaS1RF31aAXPOJtZMpCpeoOyAWVmgu258S9a6wBt5yBi6cqsO9UB8S8-VcSziamD6jEUA0M%3D" target="_blank">Unsubscribe</a> or adjust your <a style="color: #757575;" href="https://links.joinhoney.com/u/click?_t=70657193eb7a404887947be80fb10777&_m=69d3cbda2f3341048bcb5de429f5b475&_e=a2-nVZ89RGGIVziISuyeFG7s81ipgSxc27N-bGn47a3bQnpiX_8unPfqRu1h9cAfSeOQHtd0S-ZD59gcJE5C-jSWTR198CVPlecXWTmSeykCrfHXf-aApm1TVwgosJGKimEE6sObjnvJj7PVqSNBITUgewiHyO1BGf6MWiyGXeBMHKxnxF2nKW-eJ2TKRY9vdfqrKfC3tVAjA2H7p2pRGx7_zh0YTOp56speCBT9F74%3D" target="_blank">email preferences</a>.</p>
+
+                        <p style="line-height: 15px;">Copyright © 2023 Honey Science LLC (a PayPal company)<br>
+                        All rights reserved. 963 E. 4th Street, Los Angeles, CA 90013</p>
+                    </div>
+                    
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
